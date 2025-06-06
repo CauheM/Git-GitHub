@@ -70,7 +70,7 @@ float umidade = dht.readHumidity();
 }
 
 void abrirporta(){
-motor.write(120);
+motor.write(140);
 delay(3000);
 }
 
